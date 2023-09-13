@@ -1,4 +1,4 @@
-![Haxxor pepe](https://i.imgur.com/npfXI0V.jpeg)  
+[//]: <> (![Haxxor pepe](https://i.imgur.com/npfXI0V.jpeg))
   
 
 ### <div align="center">🌱 Front-end Develpor</div>  
