@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achyutem</h1>
-<h3 align="center">Aspiring frontend developer.</h3>
+<h3 align="center">Web developer.</h3>
 
-- 🔭 I’m currently working on a **React Dashboard**
+- 🔭 I’m currently working on my problem solving skills.
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -11,7 +11,7 @@
 
 - 📝 I occasionaly write on [https://dev.to/achyutem](https://dev.to/achyutem)
 
-- 📖 I'm currently Reading **Meditation by Marcus Aurelius**
+- 📖 I'm currently Reading **Everybody Lies by Seth Stephens-Davidowitz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
