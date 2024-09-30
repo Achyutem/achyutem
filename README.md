@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achyutem</h1>
 <h3 align="center">Web developer.</h3>
 
-- 🔭 I’m currently working on my problem solving skills.
+- 🔭 I’m currently working on my problem solving skills and a full stack application.
 
 - 🌱 I’m currently learning **MERN Stack**
 
