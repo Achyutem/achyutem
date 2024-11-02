@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Achyutem</h1>
 <h3 align="center">Web developer.</h3>
 
-- 🔭 I’m currently working on my problem solving skills and a full stack application.
+- 🔭 I’m currently working on my problem solving skills.
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 You can ask me about **Javascipt,React,Python and Bash**
+- 🤝 You can ask me about **Javascipt,React,Python,Linux and Bash**
 
 - 👨‍💻 All of my projects are available at [https://achyutem.vercel.app/](https://achyutem.vercel.app/)
 
