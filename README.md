@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on my problem solving skills.
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **React Native**
 
-- 🤝 You can ask me about **Javascipt,React,Python,Linux and Bash**
+- 🤝 You can ask me about **Typescript,React,Nextjs,Linux and Bash**
 
 - 👨‍💻 All of my projects are available at [https://achyutem.vercel.app/](https://achyutem.vercel.app/)
 
-- 📖 I'm currently Reading **Everybody Lies by Seth Stephens-Davidowitz**
+- 📖 I'm currently Reading **System Design Interview by Alex Xu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
